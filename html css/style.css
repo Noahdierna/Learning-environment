@@ -1,0 +1,24 @@
+body{
+    background-color: #FFD359;
+}
+div{
+    background-color: white;
+    width: fit-content;
+    margin-right: 20%;
+    margin-left: 20%;
+}
+img{
+    height: auto;
+    max-width: 100%;
+}
+h1{
+    text-transform: uppercase;
+    text-align: center;
+    color: red;
+}
+pre{
+    background-color: black;
+}
+code{
+    color: white;
+}
