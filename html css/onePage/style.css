@@ -1,0 +1,84 @@
+body{
+    background-color: black;
+}
+img.logo{
+    background-color: white;
+    height: 150px;
+}
+h2{
+    color:white;
+
+}
+li{
+    text-indent: 50px;
+    display: inline;
+    margin-right: 40px;
+    color: white;
+}
+div.main{
+    background-color:white;
+    display: flex;
+    justify-content: space-between;
+}
+nav{
+    float: right;
+}
+a.menu{
+    color: black;
+    text-decoration: none;
+    font-size: 100px;
+    
+}
+a{
+    color: white;
+    font-size: 30px;
+    text-decoration: none;
+}
+a:hover.menu{
+    background-color: black;
+    color: white;
+}
+
+div.about{
+    width: 100%;
+    margin-top: 40px;    
+    height: 400px;
+    display: flex;
+    
+}
+img.incendie{
+    height: 400px;   
+}
+div.article{
+    width: 50%;
+    margin:auto;
+}
+hr{
+    width: 66%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+div.contact{
+    width: 100%;
+    margin-top: 40px;    
+    text-align: center;
+}
+p{
+    color: white;
+}
+div.video{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+iframe{
+    text-align: center;
+}
+.citation{
+    width: 100%;
+    text-align: center;
+    color: white;
+}
+div{
+    margin-top: 20px;
+}
